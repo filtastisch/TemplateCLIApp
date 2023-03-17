@@ -11,7 +11,7 @@ To install the TemplateCLIApp you need to clone the source code repository from 
 
 
 Make sure you have Git installed on your system before running this command.
-use
+
 ### Usage
 To create a new Command you have to implement `CommandExecutor`.
 For example:
@@ -20,8 +20,7 @@ For example:
     @Override  
       public boolean onCommand(String command, String... args) {
        //do some fancy stuff
-      }  
-            return false;  
+         return false;
       }  
     }
 
