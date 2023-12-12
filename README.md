@@ -7,7 +7,7 @@ The TemplateCLIApp is a sample application that shows how to create a simple com
 To install the TemplateCLIApp you need to clone the source code repository from GitHub:
 
 
-     git clone https://github.com/yourusername/TemplateCLIApp.git
+     git clone https://github.com/filtastisch/TemplateCLIApp.git
 
 
 Make sure you have Git installed on your system before running this command.
